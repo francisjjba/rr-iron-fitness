@@ -378,11 +378,11 @@ body {
   margin-inline-start: -8px;
 }
 
-.logo ion-icon {
-  color: var(--coquelicot);
+ .logo ion-icon {
+  color: var(#000000);
   font-size: 40px;
   transform: rotate(90deg) translate(-2px, -5px);
-}
+} 
 
 .nav-open-btn {
   background-color: var(--coquelicot);
