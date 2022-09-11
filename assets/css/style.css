@@ -29,7 +29,7 @@
   --sonic-silver: hsl(0, 0%, 47%);
   --cadet-gray: hsl(214, 15%, 62%);
   --light-gray: hsl(0, 0%, 80%);
-  --coquelicot: hsl(276, 93%, 38%);
+  --coquelicot: hsl(4, 71%, 39%);
   --gainsboro: hsl(0, 0%, 88%);
   --white_20: hsl(0, 0%, 100%, 0.2);
   --white_10: hsl(0, 0%, 100%, 0.1);
@@ -379,7 +379,7 @@ body {
 }
 
  .logo ion-icon {
-  color: var(#0000FF);
+  color: var(#1515c1);
   font-size: 40px;
   transform: rotate(90deg) translate(-2px, -5px);
 } 
