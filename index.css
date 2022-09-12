@@ -12,7 +12,8 @@ body {
     align-items: center;
     justify-content: center;
     font-size: 18px;
-    background: transparent;
+    background: url(https://raw.githubusercontent.com/francisjjba/rr-iron-fitness/main/assets/images/Screenshot%20\(96\).png);
+/*   background: transparent */
     background-size: cover;
 }
 
@@ -109,7 +110,7 @@ body {
 
 .form__button:hover {
     background: var(--color-primary-dark);
-  color:white;
+  color:white
 }
 
 .form__button:active {
